@@ -1,0 +1,20 @@
+Pareto Optimality:
+only 10% of features are used 90% of the time and vice versa
+
+Optimisation Approaches:
+1) Simplex Method
+2) Dynamic Programming Method
+3) Swarm Optimisation
+
+Minimise or Maximise:
+1) Evolutionary Computations
+2) Genetic Algorithms
+
+Gestalt's Law - Gestalt - German word for FORM
+
+Jakob's Law of Internet Experience
+UX user experience
+
+Hotmail - Sabeer Bhatia - MTech Delhi IIT Project
+
+
