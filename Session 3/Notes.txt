@@ -1,0 +1,18 @@
+Goals HCI - 
+Usability
+Safety
+Functional
+
+Undo - very important
+
+Long Term Memory vs Short Term Memory
+Frequent Access of something in STM moves it to LTM - Eg. We always remember our first telephone numbers
+
+5 Es
+ - Easy to learn / learnability - Dont violate mental models - Predictability
+ - Easy to remember how to use
+ - Effective to use
+ - Efficient to use
+ - Enjoyable to use
+
+WCAG- Web Accessibility Content Guidelines
