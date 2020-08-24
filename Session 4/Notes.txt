@@ -1,0 +1,19 @@
+Negative Space
+Gesalts Law
+
+Usability
+ - Input Format
+ - Feedback (Accuracy and Speed) (Searching should finish fast and should be accurate)
+ - Visibility
+ - Affordance (Door affords opening)
+ - Visibility (Control-Effect Mapping for features) (Steering Wheel -> Rotate it to turn vehicle)
+
+Bad Usability
+ - TV Remotes
+ - User Manuals
+ - User Agreements
+
+Good Usability
+ - Chatbots
+
+Golden Theory - Blame the Design, Not the User
