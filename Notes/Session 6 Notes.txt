@@ -1,0 +1,6 @@
+8 Golden Rules of Interface Design
+ - Strive for consistency - Gestalt
+ - Enable frequent users to use shortcuts - Multiplicity, Substitutivity
+ - Offer Informative Feedback - user shud know what he is doing and where to go next
+ - Design Dialogs to Yield Closure - Tell what each user action did
+ - Easy Reversal of Actions - Undo Redo
