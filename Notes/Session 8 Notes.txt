@@ -1,0 +1,10 @@
+Usability Principles
+Usability - Quality attribute that says how easy user interfaces are to use
+ - Learnability
+ - Efficiency
+ - Memorability
+ - Errors
+ - Satisfaction
+
+A product can be useful but not usable
+ - Door with handle and push/pull instruction

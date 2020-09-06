@@ -1,0 +1,22 @@
+Golden Rules of Interface Design (Continued)
+ - Error Prevention and Handling - * for required fields in forms for error prevention - Save/Submit
+ - Internal Locus of Control - user shud feel that he has full control of system
+ - Reduce Short term Memory Load - simple displays, Recognition over Recall, give time to user to learn, Minimilistic Design
+  - 5 items in stm at a time (7 +/- 2 digit span)
+
+Nielsen's Rules of Interface Design
+ - Visible System Status - user shud be informed abt system with feedback within maximum time
+ - Map System with Read Life - Paper Tearing sound for Delete Operation
+ - User control and freedom
+ - Accelerators - Shorcuts
+ - Aesthetic / Minimalist Design
+ - Help recover from errors
+ - Help / Documentation
+
+Norman's Rules of Interface Design
+ - Visibility - more visible functions == more used
+ - Feedback - allowing person to continue with activity
+ - Constraints - Restricting types of user interaction at any time
+ - Mapping - relationship bw CS and real life
+ - Consistency
+ - Affordance
