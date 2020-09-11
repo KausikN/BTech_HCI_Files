@@ -1,0 +1,13 @@
+Substitutivity
+
+Customizability
+ - Adaptability - How much can user adapt
+ - Adaptibility - Automatic Customization of UI by system
+
+Robustness
+ - Observability
+ - Browsability
+ - Defaults
+ - Reachability
+ - Persistence
+ - Recoverability - Principle of Commensurate Effort - Undo keystroke count should be less than keystroke to reach erroneous state
