@@ -1,0 +1,16 @@
+Usability Rules
+
+ - Data Integrity
+	A computer shall not cause data harm through action or inaction
+	Eg. Deleting repos in github
+	Delete is also given at bottom of the settings page so need to scroll down - lesser chance of accidental deletion
+
+ - A computer shud not waste our time or require us to do more work than is strictly necessary
+	Never have redundant interactions
+
+ - An interface shud be humane
+	Be responsive to human needs and considerate of human frailties
+
+Tesler's Law
+	Law of conservation of complexity
+	For any system, there is a certain amt of complexity which cant be reduced

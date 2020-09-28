@@ -1,0 +1,12 @@
+Gestalt's Laws
+ - Whole is not same as sum of parts
+ - Wholistic view of UI usually from visual perspective
+ - Humans have natural compulsion to make order out of disorder
+
+Gestalt's Theory
+ - Closure : Mind automatically fills in gaps between elements to perceive complete image
+ - Proximity : Mind groups elements that are in same closed region
+ - Continuation : Mind groups elements that move in the same direction
+ - Symmetry : Humans naturally find symmetry aesthetically pleasing
+ - Similarity : Elements that have similar visual appearance are grouped together
+ - Figure and Ground (Tree within letters) - Foreground vs Background

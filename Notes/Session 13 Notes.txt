@@ -1,0 +1,6 @@
+Fitts Law - How long it takes for user to acquire a target
+
+Mistake - Error in Design
+Slip - Not following fitts law
+
+Hick and Hyman Law - Time taken for a person to take a decision based on no of choices available
