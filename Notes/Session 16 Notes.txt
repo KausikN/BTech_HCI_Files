@@ -1,0 +1,3 @@
+Exploratory Searching
+
+Successful Search, Failed Search - Depends on user (novice, expert)
